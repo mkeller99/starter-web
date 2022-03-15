@@ -1,7 +1,9 @@
 # Starter Web Project
 
-##Introduction
+## Introduction
 
-### Purpose
+## Purpose
 
 Sample website with plenty of files for demos
+
+## Something more
