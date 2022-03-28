@@ -15,3 +15,5 @@ Even more text now
 COPYRIGHT 2022
 
 NOW working on merging.
+
+Rebasing example.
